@@ -1,0 +1,421 @@
+,Brand,Car Model,Year,Driven_Km,Fuel,Transmission,Price,Location,OwnerType
+0,Hyundai,Hyundai NEW SANTRO SPORTZ EXECUTIVE MT CNG,2022,0,CNGMan,Manual,372000,delhi-ncr,1
+1,MG,MG HECTOR SMART,2019,0,Diesel,Manual,783000,delhi-ncr,1
+2,Mahindra,Mahindra Scorpio S,2018,0,Diesel,Manual,693000,delhi-ncr,1
+3,MG,MG HECTOR SHARP,2022,0,Diesel,Manual,1095000,delhi-ncr,1
+4,KIA,KIA SELTOS HTX,2020,0,Petrol,Manual,950000,delhi-ncr,1
+5,Datsun,Datsun Go REMIX EDITION,2018,0,Petrol,Manual,150000,delhi-ncr,1
+6,Tata,Tata ALTROZ XE PETROL,2022,0,Petrol,Manual,380000,delhi-ncr,1
+7,Hyundai,Hyundai Creta S,2023,0,Petrol,Manual,1190000,delhi-ncr,1
+8,Maruti,Maruti Alto K,2018,0,Petrol,Manual,189000,delhi-ncr,1
+9,Tata,Tata PUNCH PURE MT,2022,0,CNGMan,Manual,399000,delhi-ncr,1
+10,Maruti,Maruti Swift VXI AMT,2018,0,Petrol,Auto,386000,delhi-ncr,1
+11,Datsun,Datsun Redi Go T,2020,0,Petrol,Manual,172000,delhi-ncr,1
+12,Tata,Tata ALTROZ XZ PETROL,2020,0,Petrol,Manual,420000,delhi-ncr,1
+13,MG,MG HECTOR PLUS SAVVY PRO,2024,0,Petrol,Auto,1750000,delhi-ncr,1
+14,Jeep,Jeep Compass LONGITUDE,2019,0,Petrol,Auto,880000,delhi-ncr,1
+15,Maruti,Maruti Swift VXi,2024,0,Petrol,Manual,515000,delhi-ncr,1
+16,Volkswagen,Volkswagen VIRTUS COMFORTLINE TSI,2022,0,Petrol,Manual,691000,delhi-ncr,1
+17,Maruti,Maruti JIMNY ZETA ALL GRIP PRO,2023,0,CNGMan,Manual,893000,delhi-ncr,1
+18,Maruti,Maruti IGNIS DELTA,2018,0,Petrol,Manual,276000,delhi-ncr,1
+19,Maruti,Maruti XL,2021,0,Petrol,Auto,767000,delhi-ncr,1
+20,Jeep,Jeep Compass LIMITED PLUS PETROL AT,2018,0,Petrol,Auto,1090000,mumbai,1
+21,Mahindra,Mahindra Kuv,2016,0,Petrol,Manual,243000,mumbai,1
+22,Maruti,Maruti Swift VDI,2013,0,Diesel,Manual,356000,mumbai,1
+23,BMW,BMW X,2021,0,Petrol,Auto,2690000,mumbai,1
+24,Hyundai,Hyundai Xcent SX AT,2015,0,Petrol,Auto,351000,mumbai,1
+25,Maruti,Maruti Ciaz VXI,2015,0,Petrol,Manual,318000,mumbai,1
+26,Honda,Honda Amaze,2018,0,CNGMan,Manual,407000,mumbai,1
+27,Skoda,Skoda Rapid AMBITION,2015,0,Petrol,Manual,286000,mumbai,1
+28,Tata,Tata TIGOR XZA PETROL,2018,0,CNGAut,Auto,398000,mumbai,1
+29,Renault,Renault Kwid RXT,2023,0,Petrol,Auto,376000,mumbai,1
+30,Toyota,Toyota Glanza V CVT,2020,0,Petrol,Auto,509000,mumbai,1
+31,Hyundai,Hyundai ALCAZAR PLATINUM,2022,0,Diesel,Auto,1360000,mumbai,1
+32,Maruti,Maruti Swift VXI,2014,0,Petrol,Manual,249000,mumbai,1
+33,MG,MG HECTOR PLUS SHARP PRO,2023,0,Petrol,Auto,1825000,mumbai,1
+34,Hyundai,Hyundai VENUE SX,2021,0,Petrol,Manual,710000,mumbai,1
+35,Honda,Honda City,2016,0,Petrol,Manual,395000,mumbai,1
+36,Tata,Tata Curvv Creative Plus S,2024,0,Petrol,Manual,1235000,mumbai,1
+37,Hyundai,Hyundai Elite i,2017,0,Petrol,Manual,400000,mumbai,1
+38,Honda,Honda City,2015,0,Petrol,Auto,428000,mumbai,1
+39,Audi,Audi A,2022,0,Petrol,Auto,2975000,mumbai,1
+40,Maruti,Maruti Wagon R,2018,0,Petrol,Manual,362000,hyderabad,1
+41,Maruti,Maruti Swift VXI,2014,0,Petrol,Manual,229999,hyderabad,1
+42,Hyundai,Hyundai Xcent S,2014,0,Petrol,Manual,289000,hyderabad,1
+43,Maruti,Maruti Zen Estilo VXI,2012,0,Petrol,Manual,191000,hyderabad,1
+44,Datsun,Datsun Redi Go T,2016,0,Petrol,Manual,179000,hyderabad,1
+45,Honda,Honda Amaze,2016,0,Petrol,Manual,418000,hyderabad,1
+46,Renault,Renault Kwid CLIMBER,2022,0,Petrol,Auto,433000,hyderabad,1
+47,Maruti,Maruti New Wagon,2021,0,Petrol,Manual,434999,hyderabad,1
+48,Maruti,Maruti Swift VDI,2014,0,Diesel,Manual,331000,hyderabad,1
+49,Hyundai,Hyundai Elite i,2015,0,Petrol,Manual,434999,hyderabad,1
+50,Tata,Tata ALTROZ XZ DIESEL,2021,0,Diesel,Manual,578000,hyderabad,1
+51,Volkswagen,Volkswagen TAIGUN,2021,0,Petrol,Manual,973000,hyderabad,1
+52,MG,MG HECTOR PLUS SHARP,2020,0,Petrol,Auto,1160000,hyderabad,1
+53,Volkswagen,Volkswagen Ameo HIGHLINE,2016,0,Petrol,Manual,404000,hyderabad,1
+54,Renault,Renault TRIBER RXZ AMT,2021,0,Petrol,Auto,484999,hyderabad,1
+55,Maruti,Maruti Ciaz DELTA,2018,0,Petrol,Manual,459000,hyderabad,1
+56,Mahindra,Mahindra XUV,2018,0,Diesel,Manual,645000,hyderabad,1
+57,Maruti,Maruti Wagon R,2015,0,Petrol,Manual,273000,hyderabad,1
+58,Hyundai,Hyundai Creta SX,2019,0,Petrol,Manual,800000,hyderabad,1
+59,Maruti,Maruti Swift VDI,2017,0,Diesel,Manual,415000,hyderabad,1
+60,Maruti,Maruti Alto K,2013,0,Petrol,Manual,204000,chennai,1
+61,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,250000,chennai,1
+62,Maruti,Maruti Alto,2012,0,Petrol,Manual,178000,chennai,1
+63,Maruti,Maruti Swift LXI,2015,0,Petrol,Manual,337000,chennai,1
+64,Maruti,Maruti Swift Dzire VXI,2014,0,Petrol,Manual,411000,chennai,1
+65,Tata,Tata Tiago XT PETROL,2017,0,Petrol,Manual,351000,chennai,1
+66,Maruti,Maruti Baleno SIGMA PETROL,2022,0,Petrol,Manual,578000,chennai,1
+67,Hyundai,Hyundai Grand i,2019,0,Petrol,Manual,446000,chennai,1
+68,Honda,Honda Amaze,2018,0,Petrol,Auto,483000,chennai,1
+69,Honda,Honda Amaze,2019,0,Diesel,Manual,668000,chennai,1
+70,Hyundai,Hyundai NEW SANTRO SPORTZ AMT,2021,0,Petrol,Auto,490000,chennai,1
+71,Renault,Renault Kiger RXE MT,2021,0,Petrol,Manual,487000,chennai,1
+72,Maruti,Maruti Dzire ZXI,2018,0,Petrol,Manual,503000,chennai,1
+73,Honda,Honda WR,2018,0,Petrol,Manual,643000,chennai,1
+74,Skoda,Skoda Rapid AMBITION AT TSI,2021,0,Petrol,Auto,711000,chennai,1
+75,Maruti,Maruti Swift ZXi Plus AMT,2024,0,Petrol,Auto,842000,chennai,1
+76,Honda,Honda Jazz,2017,0,Petrol,Manual,411000,chennai,1
+77,Skoda,Skoda Rapid,2016,0,Petrol,Auto,599000,chennai,1
+78,Maruti,Maruti Dzire VXI AMT,2019,0,Petrol,Auto,573000,chennai,1
+79,Maruti,Maruti Celerio ZXI,2018,0,Petrol,Manual,394000,chennai,1
+80,Hyundai,Hyundai Eon D,2014,0,Petrol,Manual,132000,ahmedabad,1
+81,Ford,Ford Ecosport TITANIUM,2014,0,Petrol,Manual,312000,ahmedabad,1
+82,Maruti,Maruti Wagon R,2017,0,Petrol,Auto,346000,ahmedabad,1
+83,Tata,Tata ALTROZ XZ DIESEL,2019,0,Diesel,Manual,438999,ahmedabad,1
+84,Maruti,Maruti Dzire VXI,2021,0,CNGMan,Manual,507000,ahmedabad,1
+85,Mahindra,Mahindra KUV,2018,0,Diesel,Manual,357000,ahmedabad,1
+86,Hyundai,Hyundai Elite i,2015,0,Diesel,Manual,359000,ahmedabad,1
+87,Maruti,Maruti Baleno DELTA PETROL,2020,0,Petrol,Manual,438000,ahmedabad,1
+88,Maruti,Maruti Baleno ALPHA PETROL,2018,0,Petrol,Manual,462000,ahmedabad,1
+89,Maruti,Maruti Ciaz ZDI SHVS,2016,0,Diesel,Manual,432000,ahmedabad,1
+90,Honda,Honda Amaze,2018,0,CNGMan,Manual,473000,ahmedabad,1
+91,Honda,Honda WR,2017,0,Petrol,Manual,521000,ahmedabad,1
+92,Tata,Tata Curvv Accomplished S,2024,0,Petrol,Auto,1425000,ahmedabad,1
+93,Hyundai,Hyundai Grand i,2017,0,Petrol,Manual,348000,ahmedabad,1
+94,Volkswagen,Volkswagen Polo HIGHLINE,2014,0,Diesel,Manual,283000,ahmedabad,1
+95,Maruti,Maruti Dzire VXI,2020,0,Petrol,Manual,556000,ahmedabad,1
+96,KIA,KIA SELTOS,2023,0,Petrol,Auto,1170000,ahmedabad,1
+97,Maruti,Maruti Vitara Brezza ZDI PLUS DUAL TONE,2017,0,Diesel,Manual,605000,ahmedabad,1
+98,Maruti,Maruti Baleno ALPHA DIESEL,2016,0,Diesel,Manual,423000,ahmedabad,1
+99,Honda,Honda Jazz,2015,0,Petrol,Manual,305000,ahmedabad,1
+100,Maruti,Maruti Ciaz ALPHA,2018,0,Petrol,Auto,546000,bangalore,1
+101,Renault,Renault Kwid RXT,2017,0,Petrol,Auto,265000,bangalore,1
+102,Tata,Tata ALTROZ XZ PLUS PETROL DARK EDITION,2022,0,Petrol,Manual,552000,bangalore,1
+103,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,238000,bangalore,1
+104,Mahindra,Mahindra Kuv,2016,0,Petrol,Manual,355000,bangalore,1
+105,Hyundai,Hyundai i,2013,0,Petrol,Manual,265000,bangalore,1
+106,Maruti,Maruti Ciaz VXI,2016,0,Petrol,Manual,455999,bangalore,1
+107,Maruti,Maruti Swift LDI,2016,0,Diesel,Manual,444000,bangalore,1
+108,Mahindra,Mahindra Kuv,2016,0,Diesel,Manual,316000,bangalore,1
+109,Maruti,Maruti Swift VXI AMT,2018,0,Petrol,Auto,509000,bangalore,1
+110,Tata,Tata Tiago XT PETROL,2023,0,Petrol,Manual,455999,bangalore,1
+111,Skoda,Skoda Rapid,2016,0,Diesel,Auto,467000,bangalore,1
+112,Maruti,Maruti Swift VXI,2016,0,Petrol,Manual,478000,bangalore,1
+113,Tata,Tata Tiago XZ PLUS PETROL,2021,0,Petrol,Manual,451999,bangalore,1
+114,Volkswagen,Volkswagen Polo HIGHLINE,2017,0,Petrol,Manual,625000,bangalore,1
+115,Renault,Renault Captur RXT DIESEL DUAL TONE,2018,0,Diesel,Manual,541000,bangalore,1
+116,Tata,Tata Tiago XZ PETROL,2017,0,Petrol,Manual,343000,bangalore,1
+117,Honda,Honda Amaze,2015,0,Petrol,Manual,365000,bangalore,1
+118,Maruti,Maruti Ertiga ZXI,2013,0,Petrol,Manual,501000,bangalore,1
+119,Maruti,Maruti Celerio VXI AMT,2014,0,Petrol,Auto,246000,bangalore,1
+120,Hyundai,Hyundai i,2013,0,Diesel,Manual,234000,kolkata,1
+121,Maruti,Maruti Swift Dzire VXI,2013,0,Petrol,Manual,256000,kolkata,1
+122,Tata,Tata Tiago XE PETROL,2020,0,Petrol,Manual,323000,kolkata,1
+123,Renault,Renault Kwid RXL,2018,0,Petrol,Manual,149000,kolkata,1
+124,Honda,Honda WR,2017,0,Petrol,Manual,317000,kolkata,1
+125,Honda,Honda Amaze,2018,0,Diesel,Manual,401999,kolkata,1
+126,Tata,Tata NEXON CREATIVE PLUS S,2023,0,Petrol,Auto,826000,kolkata,1
+127,Maruti,Maruti Wagon R,2016,0,Petrol,Manual,281000,kolkata,1
+128,KIA,KIA SELTOS HTX IVT,2019,0,Petrol,Auto,734000,kolkata,1
+129,Hyundai,Hyundai Grand i,2018,0,Petrol,Manual,308000,kolkata,1
+130,Maruti,Maruti Baleno ZETA PETROL,2021,0,Petrol,Manual,390000,kolkata,1
+131,Maruti,Maruti Celerio VXI,2017,0,Petrol,Manual,256000,kolkata,1
+132,Renault,Renault Kwid RXT,2021,0,Petrol,Manual,289000,kolkata,1
+133,Hyundai,Hyundai NEW I,2021,0,Petrol,Auto,538000,kolkata,1
+134,Skoda,Skoda Octavia L,2018,0,Petrol,Auto,1027000,kolkata,1
+135,Maruti,Maruti Baleno ZETA CVT PETROL,2021,0,Petrol,Auto,455999,kolkata,1
+136,Honda,Honda Jazz,2016,0,Petrol,Auto,261000,kolkata,1
+137,Tata,Tata ALTROZ XZ PETROL,2022,0,Petrol,Manual,530000,kolkata,1
+138,Honda,Honda City,2022,0,Petrol,Auto,811000,kolkata,1
+139,Tata,Tata Tiago XZ PLUS PETROL,2021,0,Petrol,Manual,362000,kolkata,1
+140,Hyundai,Hyundai Eon MAGNA,2015,0,Petrol,Manual,199000,pune,1
+141,Maruti,Maruti Alto,2014,0,CNGMan,Manual,216000,pune,1
+142,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,236000,pune,1
+143,Toyota,Toyota Camry HYBRID,2016,0,Hybrid,Auto,1360000,pune,1
+144,Hyundai,Hyundai i,2014,0,Petrol,Manual,287000,pune,1
+145,Honda,Honda City,2013,0,Petrol,Manual,286000,pune,1
+146,Honda,Honda Amaze,2014,0,Petrol,Auto,323000,pune,1
+147,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,198000,pune,1
+148,Maruti,Maruti Ciaz ZDI SHVS,2016,0,Diesel,Manual,562000,pune,1
+149,Renault,Renault Kwid RXT,2019,0,Petrol,Manual,278000,pune,1
+150,Volkswagen,Volkswagen Polo HIGHLINE DIESEL,2013,0,Diesel,Manual,321000,pune,1
+151,Volkswagen,Volkswagen Ameo COMFORTLINE,2016,0,Petrol,Manual,337000,pune,1
+152,Hyundai,Hyundai Xcent SX,2015,0,Petrol,Manual,369000,pune,1
+153,Hyundai,Hyundai Verna,2019,0,Petrol,Manual,610000,pune,1
+154,Tata,Tata Tiago XM PETROL,2018,0,Petrol,Manual,358000,pune,1
+155,Tata,Tata Nano TWIST XTA,2015,0,Petrol,Auto,160000,pune,1
+156,Maruti,Maruti Ciaz ZXI,2015,0,Petrol,Manual,419000,pune,1
+157,Honda,Honda Amaze,2016,0,Petrol,Manual,396000,pune,1
+158,Maruti,Maruti Celerio ZXI AMT,2020,0,Petrol,Auto,445000,pune,1
+159,Mahindra,Mahindra Kuv,2017,0,Petrol,Manual,299000,pune,1
+160,Maruti,Maruti Swift VXI,2016,0,Petrol,Manual,373000,jaipur,1
+161,Tata,Tata Tiago XZ PETROL,2017,0,Petrol,Manual,336000,jaipur,1
+162,Honda,Honda Amaze,2019,0,Petrol,Manual,408000,jaipur,1
+163,KIA,KIA SYROS,2025,0,Petrol,Manual,941000,jaipur,1
+164,Maruti,Maruti S PRESSO VXI,2023,0,Petrol,Manual,396000,jaipur,1
+165,Hyundai,Hyundai Elite i,2019,0,Petrol,Manual,375000,jaipur,1
+166,Maruti,Maruti Swift VXI,2018,0,Petrol,Manual,422000,jaipur,1
+167,Hyundai,Hyundai VENUE SX PLUS,2019,0,Petrol,Auto,598000,jaipur,1
+168,Ford,Ford FREESTYLE TREND PLUS,2019,0,Petrol,Manual,379000,jaipur,1
+169,Hyundai,Hyundai NEW I,2020,0,Petrol,Manual,479000,jaipur,1
+170,Honda,Honda Amaze,2020,0,Petrol,Manual,391000,jaipur,1
+171,Maruti,Maruti Swift ZXI PLUS DUAL TONE,2023,0,Petrol,Manual,650000,jaipur,1
+172,Maruti,Maruti Dzire VXI,2020,0,CNGMan,Manual,484999,jaipur,1
+173,Honda,Honda City,2019,0,Diesel,Manual,533000,jaipur,1
+174,Nissan,Nissan MAGNITE XV MT,2023,0,Petrol,Manual,463000,jaipur,1
+175,Maruti,Maruti Baleno ZETA CVT PETROL,2021,0,Petrol,Auto,505999,jaipur,1
+176,Renault,Renault TRIBER RXZ,2022,0,Petrol,Manual,400000,jaipur,1
+177,KIA,KIA SONET HTK PLUS,2020,0,Petrol,Auto,593000,jaipur,1
+178,Nissan,Nissan MAGNITE XV MT,2021,0,Petrol,Manual,411000,jaipur,1
+179,Hyundai,Hyundai Verna SX,2021,0,Petrol,Auto,857000,jaipur,1
+180,Hyundai,Hyundai Elite i,2018,0,Petrol,Manual,457000,lucknow,1
+181,Tata,Tata Tiago XZ PETROL,2018,0,Petrol,Manual,323000,lucknow,1
+182,Renault,Renault Duster,2019,0,Diesel,Manual,409000,lucknow,1
+183,Nissan,Nissan Kicks XV TURBO,2021,0,Petrol,Auto,693000,lucknow,1
+184,Honda,Honda Jazz,2017,0,Petrol,Auto,358000,lucknow,1
+185,Maruti,Maruti Celerio X ZXI,2017,0,Petrol,Auto,358000,lucknow,1
+186,Maruti,Maruti Wagon R,2015,0,Petrol,Manual,262000,lucknow,1
+187,Maruti,Maruti Grand Vitara ALPHA SMART HYBRID,2023,0,Petrol,Manual,1089000,lucknow,1
+188,Renault,Renault Kiger RXT,2022,0,Petrol,Manual,507000,lucknow,1
+189,Tata,Tata NEXON XZ PLUS,2021,0,Petrol,Manual,739000,lucknow,1
+190,Hyundai,Hyundai Eon D,2016,0,Petrol,Manual,191000,lucknow,1
+191,Maruti,Maruti Swift VXI,2022,0,Petrol,Manual,451999,lucknow,1
+192,Hyundai,Hyundai Creta SX AT,2019,0,Petrol,Auto,763000,lucknow,1
+193,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,174000,lucknow,1
+194,Maruti,Maruti Vitara Brezza ZDI PLUS DUAL TONE,2018,0,Diesel,Manual,434999,lucknow,1
+195,Mahindra,Mahindra XUV,2024,0,Diesel,Manual,939000,lucknow,1
+196,Honda,Honda Jazz,2017,0,Petrol,Manual,311000,lucknow,1
+197,Hyundai,Hyundai Verna,2019,0,Diesel,Manual,675000,lucknow,1
+198,Tata,Tata ALTROZ XZ Plus i,2023,0,Petrol,Manual,782000,lucknow,1
+199,Maruti,Maruti Alto,2013,0,Petrol,Manual,133000,lucknow,1
+200,MG,MG HECTOR SMART,2019,0,Petrol,Auto,712000,noida,1
+201,Maruti,Maruti Swift VXI,2016,0,Petrol,Manual,261000,noida,1
+202,Hyundai,Hyundai Creta SX PLUS,2016,0,Petrol,Manual,567000,noida,1
+203,Renault,Renault Kwid RXL,2018,0,Petrol,Manual,190000,noida,1
+204,Hyundai,Hyundai Verna,2018,0,Petrol,Manual,561000,noida,1
+205,Toyota,Toyota Etios CROSS,2015,0,CNGMan,Manual,244000,noida,1
+206,Mahindra,Mahindra Thar LX HT PETROL,2022,0,Petrol,Manual,990000,noida,1
+207,Honda,Honda Amaze,2020,0,Petrol,Manual,400000,noida,1
+208,Mahindra,Mahindra SCORPIO CLASSIC S,2023,0,Diesel,Manual,1440000,noida,1
+209,Ford,Ford Ecosport TITANIUM,2021,0,Petrol,Manual,486000,noida,1
+210,Mahindra,Mahindra SCORPIO,2023,0,Diesel,Manual,1698999,noida,1
+211,Honda,Honda City,2018,0,Petrol,Manual,461000,noida,1
+212,Tata,Tata NEXON XZ PLUS,2022,0,Petrol,Manual,646000,noida,1
+213,Maruti,Maruti JIMNY ZETA ALL GRIP PRO,2023,0,CNGMan,Manual,893000,noida,1
+214,Hyundai,Hyundai Grand i,2017,0,Petrol,Manual,323000,noida,1
+215,KIA,KIA SELTOS HTX,2025,0,Petrol,Manual,1727000,noida,1
+216,Ford,Ford Ecosport TITANIUM,2018,0,Petrol,Manual,390000,noida,1
+217,Hyundai,Hyundai i,2012,0,Petrol,Manual,93000,noida,1
+218,Maruti,Maruti Ciaz DELTA,2017,0,Petrol,Auto,480999,noida,1
+219,Maruti,Maruti Swift LXI,2014,0,Petrol,Manual,195000,noida,1
+220,Hyundai,Hyundai NEW SANTRO SPORTZ EXECUTIVE MT CNG,2022,0,CNGMan,Manual,372000,noida,1
+221,MG,MG HECTOR SHARP,2022,0,Diesel,Manual,1095000,noida,1
+222,Mahindra,Mahindra Scorpio S,2018,0,Diesel,Manual,693000,noida,1
+223,Datsun,Datsun Go REMIX EDITION,2018,0,Petrol,Manual,150000,noida,1
+224,KIA,KIA SELTOS HTX,2020,0,Petrol,Manual,950000,noida,1
+225,Volkswagen,Volkswagen VIRTUS COMFORTLINE TSI,2022,0,Petrol,Manual,691000,noida,1
+226,MG,MG HECTOR SMART HYBRID,2019,0,Petrol,Manual,737000,noida,1
+227,MG,MG HECTOR PLUS SAVVY PRO,2024,0,Petrol,Auto,1750000,noida,1
+228,Maruti,Maruti XL,2021,0,Petrol,Auto,767000,noida,1
+229,Jeep,Jeep Compass LONGITUDE,2019,0,Petrol,Auto,880000,noida,1
+230,Hyundai,Hyundai NEW SANTRO SPORTZ EXECUTIVE MT CNG,2022,0,CNGMan,Manual,372000,gurgaon,1
+231,Tata,Tata ALTROZ XE PETROL,2022,0,Petrol,Manual,380000,gurgaon,1
+232,Skoda,Skoda Kylaq Signature Plus,2025,0,Petrol,Manual,960000,gurgaon,1
+233,Tata,Tata PUNCH PURE MT,2022,0,CNGMan,Manual,399000,gurgaon,1
+234,MG,MG HECTOR SHARP,2022,0,Diesel,Manual,1095000,gurgaon,1
+235,Toyota,Toyota Urban Cruiser Taisor V,2024,0,Petrol,Manual,782000,gurgaon,1
+236,Mahindra,Mahindra Thar LX PETROL HT,2020,0,Petrol,Auto,1085000,gurgaon,1
+237,Datsun,Datsun Redi Go T,2020,0,Petrol,Manual,172000,gurgaon,1
+238,Maruti,Maruti Swift VXi,2024,0,Petrol,Manual,515000,gurgaon,1
+239,Maruti,Maruti Alto K,2018,0,Petrol,Manual,189000,gurgaon,1
+240,Mahindra,Mahindra XUV,2022,0,Petrol,Manual,765000,gurgaon,1
+241,Jeep,Jeep Compass LIMITED,2019,0,Petrol,Auto,753000,gurgaon,1
+242,Toyota,Toyota Glanza V,2021,0,Petrol,Manual,443000,gurgaon,1
+243,KIA,KIA SELTOS HTK,2021,0,Petrol,Manual,688000,gurgaon,1
+244,Tata,Tata PUNCH ADVENTURE MT,2023,0,Petrol,Manual,483000,gurgaon,1
+245,Maruti,Maruti BREZZA ZXI,2022,0,Petrol,Manual,801000,gurgaon,1
+246,Tata,Tata NEXON SMART,2024,0,Petrol,Manual,644000,gurgaon,1
+247,Mahindra,Mahindra Thar LX HARD TOP,2022,0,Diesel,Manual,918000,gurgaon,1
+248,Renault,Renault Kwid RXL,2017,0,Petrol,Manual,160000,gurgaon,1
+249,Hyundai,Hyundai Elite i,2019,0,Petrol,Manual,337000,gurgaon,1
+250,Mahindra,Mahindra Scorpio S,2018,0,Diesel,Manual,693000,gurgaon,1
+251,Hyundai,Hyundai Creta S,2023,0,Petrol,Manual,1190000,gurgaon,1
+252,Maruti,Maruti Swift VXI AMT,2018,0,Petrol,Auto,386000,gurgaon,1
+253,Tata,Tata ALTROZ XZ PETROL,2020,0,Petrol,Manual,420000,gurgaon,1
+254,KIA,KIA SELTOS HTX,2020,0,Petrol,Manual,950000,gurgaon,1
+255,Jeep,Jeep Compass LONGITUDE,2019,0,Petrol,Auto,880000,gurgaon,1
+256,Datsun,Datsun Go REMIX EDITION,2018,0,Petrol,Manual,150000,gurgaon,1
+257,MG,MG HECTOR PLUS SAVVY PRO,2024,0,Petrol,Auto,1750000,gurgaon,1
+258,MG,MG HECTOR SUPER,2020,0,Petrol,Manual,695000,gurgaon,1
+259,Toyota,Toyota Urban Cruiser Taisor V,2024,0,Petrol,Manual,869000,gurgaon,1
+260,Hyundai,Hyundai Grand i,2013,0,Petrol,Manual,223000,kochi,1
+261,Hyundai,Hyundai Eon MAGNA,2014,0,Petrol,Manual,184000,kochi,1
+262,Volkswagen,Volkswagen Ameo TRENDLINE,2016,0,Petrol,Manual,299000,kochi,1
+263,Maruti,Maruti Swift VXI AMT,2018,0,Petrol,Auto,505000,kochi,1
+264,Tata,Tata NEXON XT PLUS PETROL,2019,0,Petrol,Manual,559000,kochi,1
+265,Ford,Ford Figo EXI,2014,0,Petrol,Manual,250000,kochi,1
+266,Renault,Renault Kwid RXT,2019,0,Petrol,Manual,256999,kochi,1
+267,Nissan,Nissan Micra XV CVT,2017,0,Petrol,Auto,359000,kochi,1
+268,Renault,Renault TRIBER RXT,2023,0,Petrol,Manual,522000,kochi,1
+269,Hyundai,Hyundai Verna,2018,0,Petrol,Manual,590000,kochi,1
+270,MG,MG HECTOR PLUS SHARP,2021,0,Petrol,Manual,1506000,kochi,1
+271,Tata,Tata TIAGO NRG,2024,0,CNGAut,Auto,890000,kochi,1
+272,Maruti,Maruti Swift Dzire ZXI,2015,0,Petrol,Manual,328000,kochi,1
+273,Honda,Honda Jazz,2018,0,Petrol,Auto,459000,kochi,1
+274,Ford,Ford Ecosport TREND,2016,0,Petrol,Manual,285000,kochi,1
+275,Ford,Ford FREESTYLE AMBIENTE,2019,0,Petrol,Manual,330000,kochi,1
+276,Maruti,Maruti Swift ZXI,2015,0,Petrol,Manual,337000,kochi,1
+277,Mahindra,Mahindra TUV,2016,0,Diesel,Auto,562000,kochi,1
+278,Hyundai,Hyundai i,2013,0,Petrol,Manual,141000,kochi,1
+279,Renault,Renault Kwid RXL,2017,0,Petrol,Manual,140000,kochi,1
+280,Maruti,Maruti Ciaz ZDI,2015,0,Diesel,Manual,611000,nashik,1
+281,Tata,Tata NEXON EV XZ PLUS LUX DARK EDITION,2022,0,Electr,Auto,795000,nashik,1
+282,Tata,Tata NEXON EV XZ PLUS LUX,2020,0,Electr,Auto,785000,nashik,1
+283,Mahindra,Mahindra XUV,2017,0,Diesel,Auto,875000,nashik,1
+284,Tata,Tata NEXON XZ PLUS DIESEL,2019,0,Diesel,Manual,775000,nashik,1
+285,Tata,Tata NEXON XZA PLUS DIESEL,2018,0,Diesel,Auto,745000,nashik,1
+286,Skoda,Skoda Rapid,2014,0,Diesel,Auto,292000,nashik,1
+287,Tata,Tata Nano EMAX XM CNG,2015,0,CNGMan,Manual,78000,nashik,1
+288,Nissan,Nissan Terrano XV D THP,2014,0,Diesel,Manual,315000,nashik,1
+289,Maruti,Maruti Dzire VXI,2019,0,Petrol,Manual,570000,nashik,1
+290,Ford,Ford Ecosport TITANIUM,2016,0,Diesel,Manual,417000,nashik,1
+291,Maruti,Maruti Alto LXI,2012,0,Petrol,Manual,120000,nashik,1
+292,Ford,Ford Ecosport TITANIUM,2016,0,Diesel,Manual,423000,nashik,1
+293,Hyundai,Hyundai GRAND I,2023,0,CNGMan,Manual,667000,nashik,1
+294,Audi,Audi A,2011,0,Diesel,Auto,523000,nashik,1
+295,Maruti,Maruti Swift VDI,2012,0,Diesel,Manual,290000,nashik,1
+296,Volkswagen,Volkswagen Vento TRENDLINE DIESEL,2012,0,Diesel,Manual,156000,nashik,1
+297,Honda,Honda Brio S MT,2012,0,Petrol,Manual,200000,nashik,1
+298,Honda,Honda Amaze,2023,0,Petrol,Manual,745000,nashik,1
+299,Maruti,Maruti Dzire ZXI AMT,2018,0,Petrol,Auto,440000,nashik,1
+300,Maruti,Maruti Eeco,2023,0,Petrol,Manual,555000,nagpur,1
+301,Hyundai,Hyundai i,2012,0,Diesel,Manual,210000,nagpur,1
+302,Renault,Renault Kwid RXT,2016,0,Petrol,Manual,200000,nagpur,1
+303,Maruti,Maruti Wagon R,2013,0,Petrol,Manual,290000,nagpur,1
+304,Maruti,Maruti Swift VXI,2017,0,Petrol,Manual,370000,nagpur,1
+305,Maruti,Maruti Ertiga VXI SHVS,2019,0,Petrol,Manual,656000,nagpur,1
+306,Maruti,Maruti Baleno DELTA PETROL,2016,0,Petrol,Manual,349000,nagpur,1
+307,Maruti,Maruti Swift Dzire VXI,2011,0,Petrol,Manual,140000,nagpur,1
+308,Honda,Honda Amaze,2017,0,Diesel,Manual,300000,nagpur,1
+309,Hyundai,Hyundai Verna FLUIDIC,2014,0,Diesel,Manual,300000,nagpur,1
+310,Volkswagen,Volkswagen Ameo HIGHLINE,2016,0,Diesel,Manual,285000,nagpur,1
+311,Maruti,Maruti Alto K,2013,0,Petrol,Manual,150000,nagpur,1
+312,Hyundai,Hyundai i,2012,0,Diesel,Manual,234000,nagpur,1
+313,Hyundai,Hyundai Creta E PLUS,2019,0,Diesel,Manual,900000,nagpur,1
+314,Renault,Renault Kwid RXT,2017,0,Petrol,Manual,219000,nagpur,1
+315,Hyundai,Hyundai i,2012,0,Petrol,Manual,200000,nagpur,1
+316,Maruti,Maruti Swift Dzire TOUR DIESEL,2016,0,Diesel,Manual,252000,nagpur,1
+317,Hyundai,Hyundai Verna FLUIDIC,2012,0,Diesel,Manual,229999,nagpur,1
+318,Maruti,Maruti Wagon R,2013,0,Petrol,Manual,273000,nagpur,1
+319,Maruti,Maruti Wagon R,2013,0,Petrol,Manual,213000,nagpur,1
+320,Maruti,Maruti Alto K,2013,0,Petrol,Manual,204000,coimbatore,1
+321,Toyota,Toyota Camry,2012,0,Petrol,Auto,725000,coimbatore,1
+322,Volkswagen,Volkswagen TAIGUN TOPLINE,2022,0,Petrol,Auto,1094000,coimbatore,1
+323,MG,MG HECTOR SAVVY PRO,2023,0,Petrol,Auto,1611000,coimbatore,1
+324,Maruti,Maruti Swift VXI,2016,0,Petrol,Manual,387000,coimbatore,1
+325,Volkswagen,Volkswagen Polo HIGHLINE PLUS,2018,0,Petrol,Manual,430000,coimbatore,1
+326,Tata,Tata Tiago XZA PETROL,2018,0,Petrol,Auto,401000,coimbatore,1
+327,Renault,Renault Kwid CLIMBER MT,2023,0,Petrol,Manual,408000,coimbatore,1
+328,Maruti,Maruti Alto K,2012,0,Petrol,Manual,181000,coimbatore,1
+329,Maruti,Maruti Alto,2012,0,Petrol,Manual,156000,coimbatore,1
+330,Tata,Tata NEXON XM SUNROOF PETROL,2020,0,Petrol,Manual,543000,coimbatore,1
+331,KIA,KIA SELTOS HTK PLUS,2019,0,Diesel,Manual,815000,coimbatore,1
+332,Volkswagen,Volkswagen Ameo TRENDLINE,2019,0,Diesel,Manual,405000,coimbatore,1
+333,Ford,Ford Ecosport TITANIUM,2015,0,Petrol,Auto,415000,coimbatore,1
+334,Hyundai,Hyundai Grand i,2016,0,Petrol,Auto,369000,coimbatore,1
+335,Tata,Tata Tiago XZ PLUS PETROL,2022,0,Petrol,Manual,491000,coimbatore,1
+336,Tata,Tata NEXON XM SUNROOF PETROL,2023,0,Petrol,Manual,625000,coimbatore,1
+337,Honda,Honda Amaze,2019,0,Petrol,Auto,508000,coimbatore,1
+338,Toyota,Toyota YARIS J CVT,2019,0,Petrol,Auto,633000,coimbatore,1
+339,Renault,Renault Duster RXS,2021,0,Petrol,Manual,606000,coimbatore,1
+340,Hyundai,Hyundai Eon ERA PLUS,2017,0,Petrol,Manual,212000,indore,1
+341,Hyundai,Hyundai Xcent SX,2014,0,Petrol,Manual,361000,indore,1
+342,Maruti,Maruti Dzire ZXI,2018,0,Petrol,Manual,543000,indore,1
+343,Maruti,Maruti Alto,2018,0,Petrol,Manual,247000,indore,1
+344,Hyundai,Hyundai Grand i,2017,0,Petrol,Auto,372000,indore,1
+345,Ford,Ford Ecosport TREND,2018,0,Petrol,Manual,488000,indore,1
+346,Tata,Tata TIAGO NRG PETROL,2019,0,Petrol,Manual,389000,indore,1
+347,Honda,Honda WR,2017,0,Petrol,Manual,451000,indore,1
+348,Hyundai,Hyundai VENUE SX,2020,0,Diesel,Manual,765000,indore,1
+349,Maruti,Maruti Baleno ZETA PETROL,2021,0,Petrol,Manual,438000,indore,1
+350,Honda,Honda WR,2019,0,Petrol,Manual,515000,indore,1
+351,Hyundai,Hyundai NEW I,2022,0,Petrol,Manual,572000,indore,1
+352,Maruti,Maruti Grand Vitara ALPHA SMART HYBRID,2022,0,Petrol,Manual,984000,indore,1
+353,Maruti,Maruti S PRESSO VXI,2021,0,Petrol,Manual,350000,indore,1
+354,Nissan,Nissan MAGNITE Visia Plus B,2024,0,Petrol,Manual,494000,indore,1
+355,Tata,Tata Tiago XE PETROL,2019,0,Petrol,Manual,307000,indore,1
+356,Maruti,Maruti Wagon R,2012,0,Petrol,Manual,175000,indore,1
+357,Tata,Tata TIGOR XZ PLUS PETROL,2020,0,Petrol,Manual,372000,indore,1
+358,Maruti,Maruti Swift VXI,2020,0,Petrol,Manual,430000,indore,1
+359,Hyundai,Hyundai GRAND I,2022,0,CNGMan,Manual,470000,indore,1
+360,Hyundai,Hyundai Grand i,2015,0,Diesel,Manual,284000,patna,1
+361,Maruti,Maruti Alto K,2014,0,Petrol,Manual,175000,patna,1
+362,Mahindra,Mahindra KUV,2017,0,Diesel,Manual,306000,patna,1
+363,Datsun,Datsun Go Plus T,2020,0,Petrol,Manual,315000,patna,1
+364,Hyundai,Hyundai VENUE SX PLUS,2019,0,Petrol,Auto,836999,patna,1
+365,Skoda,Skoda KUSHAQ STYLE,2023,0,Petrol,Manual,865000,patna,1
+366,Maruti,Maruti S PRESSO VXI,2022,0,Petrol,Manual,337000,patna,1
+367,Hyundai,Hyundai NEW I,2023,0,Petrol,Manual,732000,patna,1
+368,Maruti,Maruti S PRESSO VXI,2021,0,Petrol,Manual,280000,patna,1
+369,Tata,Tata NEXON XZ PLUS,2020,0,Petrol,Manual,547000,patna,1
+370,Mahindra,Mahindra Scorpio S,2021,0,Diesel,Manual,1055000,patna,1
+371,Maruti,Maruti Alto K,2013,0,Petrol,Manual,96000,patna,1
+372,Tata,Tata TIGOR XE PETROL,2021,0,Petrol,Manual,384000,patna,1
+373,Hyundai,Hyundai GRAND I,2024,0,Petrol,Manual,665000,patna,1
+374,Maruti,Maruti Swift VXI,2014,0,Petrol,Manual,210000,patna,1
+375,Honda,Honda Amaze,2024,0,Petrol,Manual,609000,patna,1
+376,KIA,KIA SONET HTX,2020,0,Petrol,Manual,587000,patna,1
+377,Maruti,Maruti Swift ZXI PLUS,2018,0,Petrol,Manual,463000,patna,1
+378,Tata,Tata Tiago XTA PETROL,2023,0,Petrol,Auto,424000,patna,1
+379,Maruti,Maruti Baleno ALPHA PETROL,2020,0,Petrol,Manual,453000,patna,1
+380,Ford,Ford Figo Aspire AMBIENTE,2015,0,Diesel,Manual,233000,chandigarh-tricity,1
+381,Maruti,Maruti New Wagon,2021,0,CNGMan,Manual,413000,chandigarh-tricity,1
+382,Tata,Tata Tiago XT PETROL,2019,0,CNGMan,Manual,333000,chandigarh-tricity,1
+383,Hyundai,Hyundai Creta S,2016,0,Petrol,Manual,529000,chandigarh-tricity,1
+384,Chevrolet,Chevrolet Trailblazer LTZ AT,2016,0,Diesel,Auto,720000,chandigarh-tricity,1
+385,Maruti,Maruti Swift Dzire VXI,2014,0,Petrol,Manual,195000,chandigarh-tricity,1
+386,KIA,KIA SONET HTX PLUS,2022,0,Petrol,Manual,695000,chandigarh-tricity,1
+387,Hyundai,Hyundai Creta SX PLUS AT,2018,0,Diesel,Auto,691000,chandigarh-tricity,1
+388,Hyundai,Hyundai Xcent SX,2018,0,Petrol,Manual,350000,chandigarh-tricity,1
+389,KIA,KIA SONET HTX PLUS,2021,0,Diesel,Manual,722000,chandigarh-tricity,1
+390,Skoda,Skoda KUSHAQ STYLE,2022,0,Petrol,Manual,838000,chandigarh-tricity,1
+391,Datsun,Datsun Redi Go S,2019,0,Petrol,Manual,161000,chandigarh-tricity,1
+392,Hyundai,Hyundai i,2016,0,Petrol,Manual,188000,chandigarh-tricity,1
+393,Maruti,Maruti Baleno DELTA PETROL,2016,0,Petrol,Manual,311000,chandigarh-tricity,1
+394,Mahindra,Mahindra BOLERO NEO N,2022,0,Diesel,Manual,610000,chandigarh-tricity,1
+395,Ford,Ford New Figo TITANIUM,2017,0,Diesel,Manual,282000,chandigarh-tricity,1
+396,Honda,Honda City,2019,0,Petrol,Manual,527000,chandigarh-tricity,1
+397,Renault,Renault Kwid RXT,2019,0,Petrol,Manual,227999,chandigarh-tricity,1
+398,Tata,Tata NEXON XE PETROL,2022,0,CNGMan,Manual,500000,chandigarh-tricity,1
+399,KIA,KIA SONET GTX PLUS,2020,0,Diesel,Auto,779000,chandigarh-tricity,1
+400,Renault,Renault Kwid RXL,2017,0,Petrol,Manual,206000,surat,1
+401,Maruti,Maruti Dzire ZXI AMT,2018,0,CNGAut,Auto,546000,surat,1
+402,Maruti,Maruti Dzire ZXI PLUS,2018,0,Petrol,Manual,461000,surat,1
+403,Maruti,Maruti Wagon R Stingray LXI,2013,0,Petrol,Manual,204000,surat,1
+404,Skoda,Skoda Rapid ACTIVE,2020,0,Petrol,Auto,540000,surat,1
+405,Honda,Honda Jazz,2017,0,Diesel,Manual,385000,surat,1
+406,Maruti,Maruti Ertiga ZDI SHVS,2016,0,Diesel,Manual,561000,surat,1
+407,Renault,Renault Kwid RXL,2017,0,Petrol,Manual,188000,surat,1
+408,Renault,Renault Kwid CLIMBER,2019,0,Petrol,Manual,250000,surat,1
+409,Hyundai,Hyundai Creta SX AT,2018,0,Petrol,Auto,720000,surat,1
+410,Mahindra,Mahindra XUV,2020,0,Diesel,Manual,735000,surat,1
+411,Tata,Tata NEXON XM PETROL,2018,0,CNGMan,Manual,352000,surat,1
+412,Honda,Honda Amaze,2013,0,Petrol,Manual,200000,surat,1
+413,Renault,Renault Kwid RXT,2018,0,Petrol,Manual,190000,surat,1
+414,Hyundai,Hyundai Elite i,2016,0,Diesel,Manual,371000,surat,1
+415,Maruti,Maruti Wagon R Stingray VXI,2013,0,Petrol,Manual,174000,surat,1
+416,Jeep,Jeep Compass LIMITED,2021,0,Diesel,Auto,1394000,surat,1
+417,Maruti,Maruti Alto,2019,0,CNGMan,Manual,202999,surat,1
+418,MG,MG HECTOR SHARP PRO,2023,0,Petrol,Auto,1389000,surat,1
+419,Maruti,Maruti Swift Dzire VXI,2015,0,Petrol,Manual,287000,surat,1
